@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ibixaeno.github.io/JqE/sitemap_index.txt
+Sitemap: https://ibixaeno.github.io/PLJ/sitemap_index.txt
+Sitemap: https://ibixaeno.github.io/YpV/sitemap_index.txt
+Sitemap: https://ibixaeno.github.io/nSb/sitemap_index.txt
